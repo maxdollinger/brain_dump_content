@@ -5,7 +5,7 @@ date: 2026-03-23
 lastmod: 2026-03-23
 draft: true
 tags: [abstraction, cognitive-load, software-design, software-complexity, debugging, maintainability]
-description: Part 2 of a series on abstraction failure. Part 1 diagnosed how abstractions fail. This post asks the prior question: what does an abstraction actually cost? The answer is grounded in the cognitive constraints that make comprehension hard, the limits of your working memory, and the defect evidence that shows where overloaded working memory leads.
+description: "Part 2 of a series on abstraction failure. Part 1 diagnosed how abstractions fail. This post asks the prior question: what does an abstraction actually cost? The answer is grounded in the cognitive constraints that make comprehension hard, the limits of your working memory, and the defect evidence that shows where overloaded working memory leads."
 ---
 
 # The Cognitive Price of Abstraction
